@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore Liverpool's current squad and recorded transfers. An independent, open-data football archive.">
+  <meta name="theme-color" content="#c8102e">
+  <title>The Red Archive — Liverpool squad & transfers</title>
+  <style>/* INLINE_STYLES */</style>
+</head>
+<body>
+  <a class="skip" href="#explore">Skip to player records</a>
+  <header class="masthead wrap">
+    <h1 class="dashboard-title">Liverpool <span>Players & transfers</span></h1>
+    <div class="last-updated">Updated <span id="updated-date"><!-- UPDATED_DATE --></span><span id="freshness-note"></span></div>
+  </header>
+  <main>
+    <section class="explorer wrap" id="explore" aria-labelledby="explore-title">
+      <h2 id="explore-title" class="sr-only">Players and transfers</h2>
+      <div class="tabs js-only" role="tablist" aria-label="Record type"><button id="tab-squad" role="tab" aria-selected="true" aria-controls="squad-panel" tabindex="0" data-tab="squad">Current squad <span><!-- SQUAD_COUNT --></span></button><button id="tab-transfers" role="tab" aria-selected="false" aria-controls="transfers-panel" tabindex="-1" data-tab="transfers">Transfer history <span><!-- TRANSFER_COUNT --></span></button></div>
+      <form id="filters" class="filters js-only" role="search" aria-label="Filter records">
+        <label class="search-label"><span>Search</span><div class="search-input"><span aria-hidden="true">⌕</span><input id="search" name="q" type="search" placeholder="Player, club, country…" autocomplete="off"></div></label>
+        <label>Position<select name="position"><option value="">All positions</option><option value="GK">Goalkeepers</option><option value="DF">Defenders</option><option value="MF">Midfielders</option><option value="FW">Forwards</option><option value="Unknown">Not recorded</option></select></label>
+        <label>View<select name="layout"><option value="list">Single list</option><option value="roles">Split by role</option></select></label>
+        <label data-squad-filter>Squad status<select name="status"><option value="">All squad members</option><option>First team</option><option>On loan</option><option>Loaned out</option></select></label>
+        <label data-transfer-filter hidden>Season<select name="season"><option value="">All seasons</option><!-- SEASON_OPTIONS --></select></label>
+        <label data-transfer-filter hidden>Direction<select name="direction"><option value="">In & out</option><option>In</option><option>Out</option></select></label>
+        <label data-transfer-filter hidden>Move type<select name="type"><option value="">All moves</option><option>Transfer</option><option>Free transfer</option><option>Loan</option><option>Loan return</option><option>Release</option><option>Retirement</option></select></label>
+        <label data-transfer-filter hidden>Team<select name="group"><option value="">All recorded teams</option><option>First team</option><option>Academy</option><option value="Unspecified">Not specified</option></select></label>
+        <label data-transfer-filter hidden>Fee currency<select name="currency"><option value="">All currencies</option><option value="GBP">GBP (£)</option><option value="EUR">EUR (€)</option><option value="USD">USD ($)</option></select></label>
+      </form>
+      <div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><div class="result-actions"><button type="button" class="text-button js-only" id="download">Download ↓</button><button class="text-button js-only" id="reset" type="button">Reset ↺</button></div></div>
+      <div id="squad-panel" role="tabpanel" aria-labelledby="tab-squad" tabindex="0"><h3 class="sr-only">Current squad</h3><p class="table-note" id="squad-note">Squad as of <!-- SQUAD_DATE -->.</p><div class="table-scroll" tabindex="0" role="region" aria-label="Squad table, scroll horizontally on small screens"><table><caption class="sr-only">Liverpool current squad</caption><thead><tr><th scope="col"><button type="button" data-sort="number">No. <span>↕</span></button></th><th scope="col"><button type="button" data-sort="name">Player <span>↕</span></button></th><th scope="col"><button type="button" data-sort="position">Position <span>↕</span></button></th><th scope="col"><button type="button" data-sort="age">Age <span>↕</span></button></th><th scope="col"><button type="button" data-sort="nation">Nation <span>↕</span></button></th><th scope="col"><button type="button" data-sort="status">Status <span>↕</span></button></th><th scope="col"><span class="sr-only">Source</span></th></tr></thead><tbody id="squad-body"><!-- SQUAD_ROWS --></tbody></table></div></div>
+      <div id="transfers-panel" role="tabpanel" aria-labelledby="tab-transfers" tabindex="0"><h3 class="sr-only">Transfer history</h3><p class="table-note" id="transfer-note">Select a currency to sort fees.</p><div class="table-scroll" tabindex="0" role="region" aria-label="Transfer table, scroll horizontally on small screens"><table><caption class="sr-only">Recorded Liverpool transfers</caption><thead><tr><th scope="col"><button type="button" data-sort="date">Date / season <span>↕</span></button></th><th scope="col"><button type="button" data-sort="name">Player <span>↕</span></button></th><th scope="col"><button type="button" data-sort="position">Pos. <span>↕</span></button></th><th scope="col"><button type="button" data-sort="age">Age at transfer <span>↕</span></button></th><th scope="col"><button type="button" data-sort="club">From / to club <span>↕</span></button></th><th scope="col"><button type="button" data-sort="feeAmount" disabled title="Select a fee currency first">Reported fee <span>↕</span></button></th><th scope="col"><button type="button" data-sort="type">Move <span>↕</span></button></th><th scope="col"><span class="sr-only">Source</span></th></tr></thead><tbody id="transfers-body"><!-- TRANSFER_ROWS --></tbody></table></div></div>
+      <div class="empty-state" id="empty" hidden><h3>No matching records</h3><button type="button" class="primary-button" id="empty-reset">Clear filters</button></div>
+      <div class="pagination js-only"><p id="page-info"></p><div><button type="button" id="previous" aria-label="Previous page">← Previous</button><button type="button" id="next" aria-label="Next page">Next →</button></div></div>
+    </section>
+    <details class="source-details wrap" id="sources"><summary>Sources & data notes</summary><p>Adapted from Wikipedia by Wikipedia contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Tables are extracted, normalised and combined. Nation follows the source’s sporting designation. Fees and dates are source-reported; qualifications remain in the original tables.</p><p>Squad: <a href="<!-- SQUAD_SOURCE -->">dated source revision</a>. Daily checks may lag real-world changes. Failed critical imports retain the previous snapshot.</p><ul class="source-list"><!-- SOURCE_LIST --></ul></details>
+    <noscript><p class="wrap">Enable JavaScript to search, sort and split by role.</p></noscript>
+  </main>
+  <footer class="wrap"><small>Unofficial · Code: MIT · Data: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></small></footer>
+  <dialog id="player-dialog" aria-labelledby="player-title"><div class="dialog-top"><span class="eyebrow">PLAYER RECORD</span><button type="button" id="close-dialog" aria-label="Close player record">×</button></div><div id="player-content"></div></dialog>
+  <script id="archive-data" type="application/json">/* INLINE_DATA */</script>
+  <script>/* INLINE_CORE */</script>
+  <script>/* INLINE_APP */</script>
+</body>
+</html>

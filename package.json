@@ -1,0 +1,23 @@
+{
+  "name": "the-red-archive",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static Liverpool squad and transfer archive, using openly licensed Wikimedia data.",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}
