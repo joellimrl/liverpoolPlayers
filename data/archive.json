@@ -20221,7 +20221,7 @@
       "revision": 1381327044,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381327044",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-23T08:35:39.117Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
@@ -20229,7 +20229,7 @@
       "revision": 1381368026,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1381368026",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-23T08:35:39.117Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-23T08:35:39.117Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20293,7 +20293,7 @@
       "revision": 1380504317,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2018%E2%80%9319%20Liverpool%20F.C.%20season&oldid=1380504317",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2017–18": {
       "title": "2017–18 Liverpool F.C. season",
@@ -20301,7 +20301,7 @@
       "revision": 1372797101,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2017%E2%80%9318%20Liverpool%20F.C.%20season&oldid=1372797101",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2016–17": {
       "title": "2016–17 Liverpool F.C. season",
@@ -20309,7 +20309,7 @@
       "revision": 1379552114,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2016%E2%80%9317%20Liverpool%20F.C.%20season&oldid=1379552114",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-24T08:10:23.155Z"
     },
     "season:2015–16": {
       "title": "2015–16 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-10-23T08:35:39.117Z",
+      "checkedAt": "2026-10-24T08:10:23.155Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-10-23T08:35:39.117Z",
+      "checkedAt": "2026-10-24T08:10:23.155Z",
       "count": 43,
       "status": "imported"
     },
@@ -24970,17 +24970,17 @@
       "status": "imported"
     },
     "2018–19": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-24T08:10:23.155Z",
       "count": 29,
       "status": "imported"
     },
     "2017–18": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-24T08:10:23.155Z",
       "count": 25,
       "status": "imported"
     },
     "2016–17": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-24T08:10:23.155Z",
       "count": 36,
       "status": "imported"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-10-23T08:35:39.117Z",
-  "generatedOn": "2026-10-23",
+  "lastChecked": "2026-10-24T08:10:23.155Z",
+  "generatedOn": "2026-10-24",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
