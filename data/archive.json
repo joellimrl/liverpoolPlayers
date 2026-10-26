@@ -20218,18 +20218,18 @@
     "squad": {
       "title": "Liverpool F.C.",
       "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
-      "revision": 1381327044,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381327044",
+      "revision": 1381901076,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381901076",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-25T08:28:22.233Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
-      "revision": 1381368026,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1381368026",
+      "revision": 1382042560,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1382042560",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-25T08:28:22.233Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-25T08:28:22.233Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20341,7 +20341,7 @@
       "revision": 1380743519,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2012%E2%80%9313%20Liverpool%20F.C.%20season&oldid=1380743519",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2011–12": {
       "title": "2011–12 Liverpool F.C. season",
@@ -20349,7 +20349,7 @@
       "revision": 1376400521,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2011%E2%80%9312%20Liverpool%20F.C.%20season&oldid=1376400521",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2010–11": {
       "title": "2010–11 Liverpool F.C. season",
@@ -20357,7 +20357,7 @@
       "revision": 1376400314,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2010%E2%80%9311%20Liverpool%20F.C.%20season&oldid=1376400314",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-26T08:59:42.991Z"
     },
     "season:2009–10": {
       "title": "2009–10 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-10-25T08:28:22.233Z",
+      "checkedAt": "2026-10-26T08:59:42.991Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-10-25T08:28:22.233Z",
+      "checkedAt": "2026-10-26T08:59:42.991Z",
       "count": 43,
       "status": "imported"
     },
@@ -25000,17 +25000,17 @@
       "status": "imported"
     },
     "2012–13": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-26T08:59:42.991Z",
       "count": 31,
       "status": "imported"
     },
     "2011–12": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-26T08:59:42.991Z",
       "count": 48,
       "status": "imported"
     },
     "2010–11": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-26T08:59:42.991Z",
       "count": 53,
       "status": "imported"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-10-25T08:28:22.233Z",
-  "generatedOn": "2026-10-25",
+  "lastChecked": "2026-10-26T08:59:42.991Z",
+  "generatedOn": "2026-10-26",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
