@@ -20221,15 +20221,15 @@
       "revision": 1381901076,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381901076",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-26T08:59:42.991Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
-      "revision": 1382042560,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1382042560",
+      "revision": 1382164469,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1382164469",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-26T08:59:42.991Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-26T08:59:42.991Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20362,10 +20362,10 @@
     "season:2009–10": {
       "title": "2009–10 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2009%E2%80%9310_Liverpool_F.C._season",
-      "revision": 1374221860,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2009%E2%80%9310%20Liverpool%20F.C.%20season&oldid=1374221860",
+      "revision": 1381163556,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2009%E2%80%9310%20Liverpool%20F.C.%20season&oldid=1381163556",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2008–09": {
       "title": "2008–09 Liverpool F.C. season",
@@ -20373,7 +20373,7 @@
       "revision": 1357487891,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2008%E2%80%9309%20Liverpool%20F.C.%20season&oldid=1357487891",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:44:50.890Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2007–08": {
       "title": "2007–08 Liverpool F.C. season",
@@ -20381,7 +20381,7 @@
       "revision": 1379703934,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2007%E2%80%9308%20Liverpool%20F.C.%20season&oldid=1379703934",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-10-27T09:03:14.073Z"
     },
     "season:2006–07": {
       "title": "2006–07 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-10-26T08:59:42.991Z",
+      "checkedAt": "2026-10-27T09:03:14.073Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-10-26T08:59:42.991Z",
+      "checkedAt": "2026-10-27T09:03:14.073Z",
       "count": 43,
       "status": "imported"
     },
@@ -25015,12 +25015,12 @@
       "status": "imported"
     },
     "2009–10": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-27T09:03:14.073Z",
       "count": 61,
       "status": "imported"
     },
     "2007–08": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-10-27T09:03:14.073Z",
       "count": 56,
       "status": "imported"
     },
@@ -25590,7 +25590,7 @@
       "status": "imported"
     },
     "2008–09": {
-      "checkedAt": "2026-10-18T14:44:50.890Z",
+      "checkedAt": "2026-10-27T09:03:14.073Z",
       "count": 18,
       "status": "imported"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-10-26T08:59:42.991Z",
-  "generatedOn": "2026-10-26",
+  "lastChecked": "2026-10-27T09:03:14.073Z",
+  "generatedOn": "2026-10-27",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
