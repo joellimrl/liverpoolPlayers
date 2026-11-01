@@ -20221,7 +20221,7 @@
       "revision": 1381901076,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381901076",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-31T09:42:21.213Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
@@ -20229,7 +20229,7 @@
       "revision": 1382771804,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1382771804",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-31T09:42:21.213Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-31T09:42:21.213Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20477,7 +20477,7 @@
       "revision": 1365907233,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1994%E2%80%9395%20Liverpool%20F.C.%20season&oldid=1365907233",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:1993–94": {
       "title": "1993–94 Liverpool F.C. season",
@@ -20485,7 +20485,7 @@
       "revision": 1374917425,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1993%E2%80%9394%20Liverpool%20F.C.%20season&oldid=1374917425",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:1992–93": {
       "title": "1992–93 Liverpool F.C. season",
@@ -20493,7 +20493,7 @@
       "revision": 1354427539,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1992%E2%80%9393%20Liverpool%20F.C.%20season&oldid=1354427539",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-01T10:30:34.009Z"
     },
     "season:1991–92": {
       "title": "1991–92 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-10-31T09:42:21.213Z",
+      "checkedAt": "2026-11-01T10:30:34.009Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-10-31T09:42:21.213Z",
+      "checkedAt": "2026-11-01T10:30:34.009Z",
       "count": 43,
       "status": "imported"
     },
@@ -25080,17 +25080,17 @@
       "status": "imported"
     },
     "1994–95": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-01T10:30:34.009Z",
       "count": 10,
       "status": "imported"
     },
     "1993–94": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-01T10:30:34.009Z",
       "count": 9,
       "status": "imported"
     },
     "1992–93": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-01T10:30:34.009Z",
       "count": 9,
       "status": "imported"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-10-31T09:42:21.213Z",
-  "generatedOn": "2026-10-31",
+  "lastChecked": "2026-11-01T10:30:34.009Z",
+  "generatedOn": "2026-11-01",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
