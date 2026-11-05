@@ -20218,18 +20218,18 @@
     "squad": {
       "title": "Liverpool F.C.",
       "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
-      "revision": 1381901076,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1381901076",
+      "revision": 1383763487,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1383763487",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-03T10:56:12.007Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
-      "revision": 1383439963,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1383439963",
+      "revision": 1383854981,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1383854981",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-03T10:56:12.007Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-03T10:56:12.007Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20573,7 +20573,7 @@
       "revision": 1373056776,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1982%E2%80%9383%20Liverpool%20F.C.%20season&oldid=1373056776",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:1981–82": {
       "title": "1981–82 Liverpool F.C. season",
@@ -20581,7 +20581,7 @@
       "revision": 1373056772,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1981%E2%80%9382%20Liverpool%20F.C.%20season&oldid=1373056772",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:1980–81": {
       "title": "1980–81 Liverpool F.C. season",
@@ -20589,7 +20589,7 @@
       "revision": 1362377078,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1980%E2%80%9381%20Liverpool%20F.C.%20season&oldid=1362377078",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-05T10:59:17.986Z"
     },
     "season:1979–80": {
       "title": "1979–80 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-11-03T10:56:12.007Z",
+      "checkedAt": "2026-11-05T10:59:17.986Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-11-03T10:56:12.007Z",
+      "checkedAt": "2026-11-05T10:59:17.986Z",
       "count": 43,
       "status": "imported"
     },
@@ -25140,17 +25140,17 @@
       "status": "no transfer tables"
     },
     "1982–83": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-05T10:59:17.986Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1981–82": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-05T10:59:17.986Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1980–81": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-05T10:59:17.986Z",
       "count": 0,
       "status": "no transfer tables"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-11-03T10:56:12.007Z",
-  "generatedOn": "2026-11-03",
+  "lastChecked": "2026-11-05T10:59:17.986Z",
+  "generatedOn": "2026-11-05",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
