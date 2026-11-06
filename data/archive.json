@@ -20221,7 +20221,7 @@
       "revision": 1383763487,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1383763487",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-05T10:59:17.986Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
@@ -20229,7 +20229,7 @@
       "revision": 1383854981,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1383854981",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-05T10:59:17.986Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-05T10:59:17.986Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20597,7 +20597,7 @@
       "revision": 1308124037,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1979%E2%80%9380%20Liverpool%20F.C.%20season&oldid=1308124037",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:1978–79": {
       "title": "1978–79 Liverpool F.C. season",
@@ -20605,7 +20605,7 @@
       "revision": 1364674336,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1978%E2%80%9379%20Liverpool%20F.C.%20season&oldid=1364674336",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:1977–78": {
       "title": "1977–78 Liverpool F.C. season",
@@ -20613,7 +20613,7 @@
       "revision": 1362372237,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1977%E2%80%9378%20Liverpool%20F.C.%20season&oldid=1362372237",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-06T10:57:03.353Z"
     },
     "season:1976–77": {
       "title": "1976–77 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-11-05T10:59:17.986Z",
+      "checkedAt": "2026-11-06T10:57:03.353Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-11-05T10:59:17.986Z",
+      "checkedAt": "2026-11-06T10:57:03.353Z",
       "count": 43,
       "status": "imported"
     },
@@ -25155,17 +25155,17 @@
       "status": "no transfer tables"
     },
     "1979–80": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-06T10:57:03.353Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1978–79": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-06T10:57:03.353Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1977–78": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-06T10:57:03.353Z",
       "count": 0,
       "status": "no transfer tables"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-11-05T10:59:17.986Z",
-  "generatedOn": "2026-11-05",
+  "lastChecked": "2026-11-06T10:57:03.353Z",
+  "generatedOn": "2026-11-06",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
