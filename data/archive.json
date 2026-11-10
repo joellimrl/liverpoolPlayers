@@ -20221,15 +20221,15 @@
       "revision": 1383763487,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1383763487",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-09T11:37:24.994Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
-      "revision": 1384603411,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1384603411",
+      "revision": 1384827897,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1384827897",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-09T11:37:24.994Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1380534895,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1380534895",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-09T11:37:24.994Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20693,7 +20693,7 @@
       "revision": 1363802175,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1967%E2%80%9368%20Liverpool%20F.C.%20season&oldid=1363802175",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:1966–67": {
       "title": "1966–67 Liverpool F.C. season",
@@ -20701,7 +20701,7 @@
       "revision": 1317246352,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1966%E2%80%9367%20Liverpool%20F.C.%20season&oldid=1317246352",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:1965–66": {
       "title": "1965–66 Liverpool F.C. season",
@@ -20709,7 +20709,7 @@
       "revision": 1369004075,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1965%E2%80%9366%20Liverpool%20F.C.%20season&oldid=1369004075",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-10T11:16:22.516Z"
     },
     "season:1964–65": {
       "title": "1964–65 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-11-09T11:37:24.994Z",
+      "checkedAt": "2026-11-10T11:16:22.516Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-11-09T11:37:24.994Z",
+      "checkedAt": "2026-11-10T11:16:22.516Z",
       "count": 43,
       "status": "imported"
     },
@@ -25215,17 +25215,17 @@
       "status": "no transfer tables"
     },
     "1967–68": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-10T11:16:22.516Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1966–67": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-10T11:16:22.516Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1965–66": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-10T11:16:22.516Z",
       "count": 0,
       "status": "no transfer tables"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-11-09T11:37:24.994Z",
-  "generatedOn": "2026-11-09",
+  "lastChecked": "2026-11-10T11:16:22.516Z",
+  "generatedOn": "2026-11-10",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
