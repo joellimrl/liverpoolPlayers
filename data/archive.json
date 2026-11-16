@@ -20221,7 +20221,7 @@
       "revision": 1383763487,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1383763487",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-15T10:58:36.647Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
@@ -20229,7 +20229,7 @@
       "revision": 1384930978,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1384930978",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-15T10:58:36.647Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1385166357,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1385166357",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-15T10:58:36.647Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -20837,7 +20837,7 @@
       "revision": 1353724557,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1949%E2%80%9350%20Liverpool%20F.C.%20season&oldid=1353724557",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:1948–49": {
       "title": "1948–49 Liverpool F.C. season",
@@ -20845,7 +20845,7 @@
       "revision": 1362937662,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1948%E2%80%9349%20Liverpool%20F.C.%20season&oldid=1362937662",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:1947–48": {
       "title": "1947–48 Liverpool F.C. season",
@@ -20853,7 +20853,7 @@
       "revision": 1353724542,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1947%E2%80%9348%20Liverpool%20F.C.%20season&oldid=1353724542",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-16T11:26:10.559Z"
     },
     "season:1946–47": {
       "title": "1946–47 Liverpool F.C. season",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-11-15T10:58:36.647Z",
+      "checkedAt": "2026-11-16T11:26:10.559Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-11-15T10:58:36.647Z",
+      "checkedAt": "2026-11-16T11:26:10.559Z",
       "count": 43,
       "status": "imported"
     },
@@ -25305,17 +25305,17 @@
       "status": "no transfer tables"
     },
     "1949–50": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-16T11:26:10.559Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1948–49": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-16T11:26:10.559Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1947–48": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-16T11:26:10.559Z",
       "count": 0,
       "status": "no transfer tables"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-11-15T10:58:36.647Z",
-  "generatedOn": "2026-11-15",
+  "lastChecked": "2026-11-16T11:26:10.559Z",
+  "generatedOn": "2026-11-16",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
