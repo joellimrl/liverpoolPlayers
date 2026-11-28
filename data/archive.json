@@ -1056,7 +1056,7 @@
       "sourceId": "season:2026–27"
     },
     {
-      "id": "1470fad0eb07e046abf4",
+      "id": "1b46c64b8e191d3da249",
       "name": "Kareem Ahmed",
       "playerId": "wiki:Kareem_Ahmed",
       "playerUrl": "https://en.wikipedia.org/wiki/Kareem_Ahmed",
@@ -1066,7 +1066,7 @@
       "dateLabel": "1 July 2026",
       "position": "FW",
       "direction": "Out",
-      "club": "Pittburgh Panthers",
+      "club": "Pittsburgh Panthers",
       "type": "Free transfer",
       "group": "Academy",
       "fee": "Free transfer",
@@ -19222,7 +19222,7 @@
       "feeAmount": 825000,
       "currency": "GBP",
       "sourceId": "season:1992–93",
-      "birthDate": "1962-01-06",
+      "birthDate": "1962-01-09",
       "birthSourceId": "birth:wiki:Ray_Houghton"
     },
     {
@@ -19600,7 +19600,7 @@
       "feeAmount": 825000,
       "currency": "GBP",
       "sourceId": "season:1987–88",
-      "birthDate": "1962-01-06",
+      "birthDate": "1962-01-09",
       "birthSourceId": "birth:wiki:Ray_Houghton"
     },
     {
@@ -20221,15 +20221,15 @@
       "revision": 1387955512,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Liverpool%20F.C.&oldid=1387955512",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-27T12:26:55.196Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:2026–27": {
       "title": "2026–27 Liverpool F.C. season",
       "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
-      "revision": 1388273473,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1388273473",
+      "revision": 1388436604,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327%20Liverpool%20F.C.%20season&oldid=1388436604",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-27T12:26:55.196Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:2025–26": {
       "title": "2025–26 Liverpool F.C. season",
@@ -20237,7 +20237,7 @@
       "revision": 1387819763,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=2025%E2%80%9326%20Liverpool%20F.C.%20season&oldid=1387819763",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-11-27T12:26:55.196Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:2024–25": {
       "title": "2024–25 Liverpool F.C. season",
@@ -21125,7 +21125,7 @@
       "revision": 1306468597,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1913%E2%80%9314%20Liverpool%20F.C.%20season&oldid=1306468597",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:1912–13": {
       "title": "1912–13 Liverpool F.C. season",
@@ -21133,7 +21133,7 @@
       "revision": 1306468590,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1912%E2%80%9313%20Liverpool%20F.C.%20season&oldid=1306468590",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:1911–12": {
       "title": "1911–12 Liverpool F.C. season",
@@ -21141,7 +21141,7 @@
       "revision": 1327277625,
       "revisionUrl": "https://en.wikipedia.org/w/index.php?title=1911%E2%80%9312%20Liverpool%20F.C.%20season&oldid=1327277625",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T14:43:09.962Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "season:1910–11": {
       "title": "1910–11 Liverpool F.C. season",
@@ -24506,322 +24506,322 @@
     "birth:wiki:Nigel_Clough": {
       "title": "Nigel Clough",
       "url": "https://en.wikipedia.org/wiki/Nigel_Clough",
-      "revision": 1380460556,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nigel%20Clough&oldid=1380460556",
+      "revision": 1386993904,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nigel%20Clough&oldid=1386993904",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Paul_Stewart_(footballer_born_1964)": {
       "title": "Paul Stewart (footballer, born 1964)",
       "url": "https://en.wikipedia.org/wiki/Paul_Stewart_(footballer%2C_born_1964)",
-      "revision": 1379569605,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Stewart%20(footballer%2C%20born%201964)&oldid=1379569605",
+      "revision": 1384408506,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Stewart%20(footballer%2C%20born%201964)&oldid=1384408506",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mark_Walters": {
       "title": "Mark Walters",
       "url": "https://en.wikipedia.org/wiki/Mark_Walters",
-      "revision": 1369261676,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Walters&oldid=1369261676",
+      "revision": 1385827800,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Walters&oldid=1385827800",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Stan_Collymore": {
       "title": "Stan Collymore",
       "url": "https://en.wikipedia.org/wiki/Stan_Collymore",
-      "revision": 1366561849,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Stan%20Collymore&oldid=1366561849",
+      "revision": 1383337910,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Stan%20Collymore&oldid=1383337910",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Jason_McAteer": {
       "title": "Jason McAteer",
       "url": "https://en.wikipedia.org/wiki/Jason_McAteer",
-      "revision": 1379902877,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Jason%20McAteer&oldid=1379902877",
+      "revision": 1381396109,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Jason%20McAteer&oldid=1381396109",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mark_Kennedy_(footballer,_born_1976)": {
       "title": "Mark Kennedy (footballer, born 1976)",
       "url": "https://en.wikipedia.org/wiki/Mark_Kennedy_(footballer%2C_born_1976)",
-      "revision": 1376984703,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Kennedy%20(footballer%2C%20born%201976)&oldid=1376984703",
+      "revision": 1385057943,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Kennedy%20(footballer%2C%20born%201976)&oldid=1385057943",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Steve_Nicol": {
       "title": "Steve Nicol",
       "url": "https://en.wikipedia.org/wiki/Steve_Nicol",
-      "revision": 1376099593,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Steve%20Nicol&oldid=1376099593",
+      "revision": 1382098772,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Steve%20Nicol&oldid=1382098772",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Don_Hutchison": {
       "title": "Don Hutchison",
       "url": "https://en.wikipedia.org/wiki/Don_Hutchison",
-      "revision": 1372704654,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Don%20Hutchison&oldid=1372704654",
+      "revision": 1381392460,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Don%20Hutchison&oldid=1381392460",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Ronnie_Whelan": {
       "title": "Ronnie Whelan",
       "url": "https://en.wikipedia.org/wiki/Ronnie_Whelan",
-      "revision": 1379164173,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronnie%20Whelan&oldid=1379164173",
+      "revision": 1382003445,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronnie%20Whelan&oldid=1382003445",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Michael_Stensgaard": {
       "title": "Michael Stensgaard",
       "url": "https://en.wikipedia.org/wiki/Michael_Stensgaard",
-      "revision": 1174710641,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Michael%20Stensgaard&oldid=1174710641",
+      "revision": 1383301856,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Michael%20Stensgaard&oldid=1383301856",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Bruce_Grobbelaar": {
       "title": "Bruce Grobbelaar",
       "url": "https://en.wikipedia.org/wiki/Bruce_Grobbelaar",
-      "revision": 1380204795,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Bruce%20Grobbelaar&oldid=1380204795",
+      "revision": 1381389802,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Bruce%20Grobbelaar&oldid=1381389802",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:David_Burrows_(footballer)": {
       "title": "David Burrows (footballer)",
       "url": "https://en.wikipedia.org/wiki/David_Burrows_(footballer)",
-      "revision": 1362791722,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=David%20Burrows%20(footballer)&oldid=1362791722",
+      "revision": 1382380453,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=David%20Burrows%20(footballer)&oldid=1382380453",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Torben_Piechnik": {
       "title": "Torben Piechnik",
       "url": "https://en.wikipedia.org/wiki/Torben_Piechnik",
-      "revision": 1361362157,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Torben%20Piechnik&oldid=1361362157",
+      "revision": 1383378623,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Torben%20Piechnik&oldid=1383378623",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Julian_Dicks": {
       "title": "Julian Dicks",
       "url": "https://en.wikipedia.org/wiki/Julian_Dicks",
-      "revision": 1377491620,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Julian%20Dicks&oldid=1377491620",
+      "revision": 1381397613,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Julian%20Dicks&oldid=1381397613",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:István_Kozma_(footballer)": {
       "title": "István Kozma (footballer)",
       "url": "https://en.wikipedia.org/wiki/Istv%C3%A1n_Kozma_(footballer)",
-      "revision": 1328509085,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Istv%C3%A1n%20Kozma%20(footballer)&oldid=1328509085",
+      "revision": 1381395654,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Istv%C3%A1n%20Kozma%20(footballer)&oldid=1381395654",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mark_Gayle": {
       "title": "Mark Gayle",
       "url": "https://en.wikipedia.org/wiki/Mark_Gayle",
-      "revision": 1350468294,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Gayle&oldid=1350468294",
+      "revision": 1382450711,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Gayle&oldid=1382450711",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mike_Hooper_(footballer)": {
       "title": "Mike Hooper (footballer)",
       "url": "https://en.wikipedia.org/wiki/Mike_Hooper_(footballer)",
-      "revision": 1363372447,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mike%20Hooper%20(footballer)&oldid=1363372447",
+      "revision": 1382003939,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mike%20Hooper%20(footballer)&oldid=1382003939",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Neil_Ruddock": {
       "title": "Neil Ruddock",
       "url": "https://en.wikipedia.org/wiki/Neil_Ruddock",
-      "revision": 1365019594,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Neil%20Ruddock&oldid=1365019594",
+      "revision": 1382010768,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Neil%20Ruddock&oldid=1382010768",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Ronny_Rosenthal": {
       "title": "Ronny Rosenthal",
       "url": "https://en.wikipedia.org/wiki/Ronny_Rosenthal",
-      "revision": 1365731247,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronny%20Rosenthal&oldid=1365731247",
+      "revision": 1382000699,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronny%20Rosenthal&oldid=1382000699",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Tony_Cousins": {
       "title": "Tony Cousins",
       "url": "https://en.wikipedia.org/wiki/Tony_Cousins",
-      "revision": 1292146563,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Tony%20Cousins&oldid=1292146563",
+      "revision": 1382495115,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Tony%20Cousins&oldid=1382495115",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mike_Marsh_(footballer)": {
       "title": "Mike Marsh (footballer)",
       "url": "https://en.wikipedia.org/wiki/Mike_Marsh_(footballer)",
-      "revision": 1332874605,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mike%20Marsh%20(footballer)&oldid=1332874605",
+      "revision": 1382003958,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mike%20Marsh%20(footballer)&oldid=1382003958",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Stig_Inge_Bjørnebye": {
       "title": "Stig Inge Bjørnebye",
       "url": "https://en.wikipedia.org/wiki/Stig_Inge_Bj%C3%B8rnebye",
-      "revision": 1379637534,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Stig%20Inge%20Bj%C3%B8rnebye&oldid=1379637534",
+      "revision": 1382011679,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Stig%20Inge%20Bj%C3%B8rnebye&oldid=1382011679",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Barry_Venison": {
       "title": "Barry Venison",
       "url": "https://en.wikipedia.org/wiki/Barry_Venison",
-      "revision": 1379164448,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Barry%20Venison&oldid=1379164448",
+      "revision": 1384412408,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Barry%20Venison&oldid=1384412408",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Dean_Saunders": {
       "title": "Dean Saunders",
       "url": "https://en.wikipedia.org/wiki/Dean_Saunders",
-      "revision": 1380620474,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Dean%20Saunders&oldid=1380620474",
+      "revision": 1382827562,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Dean%20Saunders&oldid=1382827562",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Paul_Stewart_(footballer,_born_1964)": {
       "title": "Paul Stewart (footballer, born 1964)",
       "url": "https://en.wikipedia.org/wiki/Paul_Stewart_(footballer%2C_born_1964)",
-      "revision": 1379569605,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Stewart%20(footballer%2C%20born%201964)&oldid=1379569605",
+      "revision": 1384408506,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Stewart%20(footballer%2C%20born%201964)&oldid=1384408506",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Barry_Jones_(footballer)": {
       "title": "Barry Jones (footballer)",
       "url": "https://en.wikipedia.org/wiki/Barry_Jones_(footballer)",
-      "revision": 1363216286,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Barry%20Jones%20(footballer)&oldid=1363216286",
+      "revision": 1381812214,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Barry%20Jones%20(footballer)&oldid=1381812214",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Ray_Houghton": {
       "title": "Ray Houghton",
       "url": "https://en.wikipedia.org/wiki/Ray_Houghton",
-      "revision": 1379159662,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ray%20Houghton&oldid=1379159662",
+      "revision": 1383305538,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ray%20Houghton&oldid=1383305538",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:John_Aldridge": {
       "title": "John Aldridge",
       "url": "https://en.wikipedia.org/wiki/John_Aldridge",
-      "revision": 1379159568,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Aldridge&oldid=1379159568",
+      "revision": 1387694643,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Aldridge&oldid=1387694643",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:David_James_(footballer,_born_1970)": {
       "title": "David James (footballer, born 1970)",
       "url": "https://en.wikipedia.org/wiki/David_James_(footballer%2C_born_1970)",
-      "revision": 1375226825,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=David%20James%20(footballer%2C%20born%201970)&oldid=1375226825",
+      "revision": 1384902334,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=David%20James%20(footballer%2C%20born%201970)&oldid=1384902334",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Steve_Harkness": {
       "title": "Steve Harkness",
       "url": "https://en.wikipedia.org/wiki/Steve_Harkness",
-      "revision": 1311509162,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Steve%20Harkness&oldid=1311509162",
+      "revision": 1386431846,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Steve%20Harkness&oldid=1386431846",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Glenn_Hysén": {
       "title": "Glenn Hysén",
       "url": "https://en.wikipedia.org/wiki/Glenn_Hys%C3%A9n",
-      "revision": 1354923018,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Glenn%20Hys%C3%A9n&oldid=1354923018",
+      "revision": 1386987702,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Glenn%20Hys%C3%A9n&oldid=1386987702",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Ronnie_Rosenthal": {
       "title": "Ronny Rosenthal",
       "url": "https://en.wikipedia.org/wiki/Ronny_Rosenthal",
-      "revision": 1365731247,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronny%20Rosenthal&oldid=1365731247",
+      "revision": 1382000699,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Ronny%20Rosenthal&oldid=1382000699",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Jim_Beglin": {
       "title": "Jim Beglin",
       "url": "https://en.wikipedia.org/wiki/Jim_Beglin",
-      "revision": 1369121880,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Jim%20Beglin&oldid=1369121880",
+      "revision": 1386995476,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Jim%20Beglin&oldid=1386995476",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Nick_Tanner_(footballer)": {
       "title": "Nick Tanner",
       "url": "https://en.wikipedia.org/wiki/Nick_Tanner",
-      "revision": 1301056830,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nick%20Tanner&oldid=1301056830",
+      "revision": 1382505819,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nick%20Tanner&oldid=1382505819",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:John_Durnin": {
       "title": "John Durnin",
       "url": "https://en.wikipedia.org/wiki/John_Durnin",
-      "revision": 1366592649,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Durnin&oldid=1366592649",
+      "revision": 1381396881,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Durnin&oldid=1381396881",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Nigel_Spackman": {
       "title": "Nigel Spackman",
       "url": "https://en.wikipedia.org/wiki/Nigel_Spackman",
-      "revision": 1379164363,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nigel%20Spackman&oldid=1379164363",
+      "revision": 1387694400,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Nigel%20Spackman&oldid=1387694400",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Craig_Johnston": {
       "title": "Craig Johnston",
       "url": "https://en.wikipedia.org/wiki/Craig_Johnston",
-      "revision": 1379163925,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Craig%20Johnston&oldid=1379163925",
+      "revision": 1387975437,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Craig%20Johnston&oldid=1387975437",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mark_Lawrenson": {
       "title": "Mark Lawrenson",
       "url": "https://en.wikipedia.org/wiki/Mark_Lawrenson",
-      "revision": 1379003281,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Lawrenson&oldid=1379003281",
+      "revision": 1383608510,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Mark%20Lawrenson&oldid=1383608510",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:John_Wark": {
       "title": "John Wark",
       "url": "https://en.wikipedia.org/wiki/John_Wark",
-      "revision": 1379163433,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Wark&oldid=1379163433",
+      "revision": 1386880413,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=John%20Wark&oldid=1386880413",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Paul_Walsh": {
       "title": "Paul Walsh",
       "url": "https://en.wikipedia.org/wiki/Paul_Walsh",
-      "revision": 1362800857,
-      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Walsh&oldid=1362800857",
+      "revision": 1387915977,
+      "revisionUrl": "https://en.wikipedia.org/w/index.php?title=Paul%20Walsh&oldid=1387915977",
       "license": "CC-BY-SA-4.0",
-      "checkedAt": "2026-10-18T15:30:07.343Z"
+      "checkedAt": "2026-11-28T11:51:27.040Z"
     },
     "birth:wiki:Mark_Seagraves": {
       "title": "Mark Seagraves",
@@ -24930,12 +24930,12 @@
   },
   "seasonStatus": {
     "2026–27": {
-      "checkedAt": "2026-11-27T12:26:55.196Z",
+      "checkedAt": "2026-11-28T11:51:27.040Z",
       "count": 35,
       "status": "imported"
     },
     "2025–26": {
-      "checkedAt": "2026-11-27T12:26:55.196Z",
+      "checkedAt": "2026-11-28T11:51:27.040Z",
       "count": 43,
       "status": "imported"
     },
@@ -25485,17 +25485,17 @@
       "status": "no transfer tables"
     },
     "1913–14": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-28T11:51:27.040Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1912–13": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-28T11:51:27.040Z",
       "count": 0,
       "status": "no transfer tables"
     },
     "1911–12": {
-      "checkedAt": "2026-10-18T14:44:05.962Z",
+      "checkedAt": "2026-11-28T11:51:27.040Z",
       "count": 0,
       "status": "no transfer tables"
     },
@@ -25606,8 +25606,8 @@
     }
   },
   "squadAsOf": null,
-  "lastChecked": "2026-11-27T12:26:55.196Z",
-  "generatedOn": "2026-11-27",
+  "lastChecked": "2026-11-28T11:51:27.040Z",
+  "generatedOn": "2026-11-28",
   "refreshWarnings": [],
   "license": {
     "data": "CC-BY-SA-4.0",
@@ -25980,46 +25980,46 @@
     "wiki:Ian_Rush": "2026-11-27T12:27:05.455Z",
     "wiki:Nick_Rizzo": "2026-11-27T12:27:05.171Z",
     "wiki:Jan_Mølby": "2026-11-27T12:27:05.230Z",
-    "wiki:Nigel_Clough": "2026-10-18T15:32:56.301Z",
-    "wiki:Paul_Stewart_(footballer_born_1964)": "2026-10-18T15:32:56.402Z",
-    "wiki:Mark_Walters": "2026-10-18T15:32:57.160Z",
-    "wiki:Stan_Collymore": "2026-10-18T15:32:57.906Z",
-    "wiki:Jason_McAteer": "2026-10-18T15:32:58.339Z",
-    "wiki:Mark_Kennedy_(footballer,_born_1976)": "2026-10-18T15:32:58.355Z",
-    "wiki:Steve_Nicol": "2026-10-18T15:32:59.125Z",
-    "wiki:Don_Hutchison": "2026-10-18T15:32:59.130Z",
-    "wiki:Ronnie_Whelan": "2026-10-18T15:32:59.732Z",
-    "wiki:Michael_Stensgaard": "2026-10-18T15:32:59.889Z",
-    "wiki:Bruce_Grobbelaar": "2026-10-18T15:33:00.080Z",
-    "wiki:David_Burrows_(footballer)": "2026-10-18T15:33:01.334Z",
-    "wiki:Torben_Piechnik": "2026-10-18T15:33:01.730Z",
-    "wiki:Julian_Dicks": "2026-10-18T15:33:02.844Z",
-    "wiki:István_Kozma_(footballer)": "2026-10-18T15:33:03.043Z",
-    "wiki:Mark_Gayle": "2026-10-18T15:33:03.187Z",
-    "wiki:Mike_Hooper_(footballer)": "2026-10-18T15:33:03.602Z",
-    "wiki:Neil_Ruddock": "2026-10-18T15:33:04.224Z",
-    "wiki:Ronny_Rosenthal": "2026-10-18T15:33:04.772Z",
-    "wiki:Tony_Cousins": "2026-10-18T15:33:05.181Z",
-    "wiki:Mike_Marsh_(footballer)": "2026-10-18T15:33:05.438Z",
-    "wiki:Stig_Inge_Bjørnebye": "2026-10-18T15:33:05.937Z",
-    "wiki:Barry_Venison": "2026-10-18T15:33:06.500Z",
-    "wiki:Dean_Saunders": "2026-10-18T15:33:06.666Z",
-    "wiki:Paul_Stewart_(footballer,_born_1964)": "2026-10-18T15:33:07.442Z",
-    "wiki:Barry_Jones_(footballer)": "2026-10-18T15:33:07.531Z",
-    "wiki:Ray_Houghton": "2026-10-18T15:33:07.660Z",
-    "wiki:John_Aldridge": "2026-10-18T15:33:09.050Z",
-    "wiki:David_James_(footballer,_born_1970)": "2026-10-18T15:33:09.198Z",
-    "wiki:Steve_Harkness": "2026-10-18T15:33:09.244Z",
-    "wiki:Glenn_Hysén": "2026-10-18T15:33:10.249Z",
-    "wiki:Ronnie_Rosenthal": "2026-10-18T15:33:10.546Z",
-    "wiki:Jim_Beglin": "2026-10-18T15:33:10.832Z",
-    "wiki:Nick_Tanner_(footballer)": "2026-10-18T15:33:11.631Z",
-    "wiki:John_Durnin": "2026-10-18T15:33:11.709Z",
-    "wiki:Nigel_Spackman": "2026-10-18T15:33:11.867Z",
-    "wiki:Craig_Johnston": "2026-10-18T15:33:12.326Z",
-    "wiki:Mark_Lawrenson": "2026-10-18T15:33:12.866Z",
-    "wiki:John_Wark": "2026-10-18T15:33:13.703Z",
-    "wiki:Paul_Walsh": "2026-10-18T15:33:13.850Z",
+    "wiki:Nigel_Clough": "2026-11-28T11:51:32.851Z",
+    "wiki:Paul_Stewart_(footballer_born_1964)": "2026-11-28T11:51:32.606Z",
+    "wiki:Mark_Walters": "2026-11-28T11:51:32.692Z",
+    "wiki:Stan_Collymore": "2026-11-28T11:51:33.208Z",
+    "wiki:Jason_McAteer": "2026-11-28T11:51:33.137Z",
+    "wiki:Mark_Kennedy_(footballer,_born_1976)": "2026-11-28T11:51:33.341Z",
+    "wiki:Steve_Nicol": "2026-11-28T11:51:33.668Z",
+    "wiki:Don_Hutchison": "2026-11-28T11:51:33.674Z",
+    "wiki:Ronnie_Whelan": "2026-11-28T11:51:33.909Z",
+    "wiki:Michael_Stensgaard": "2026-11-28T11:51:34.011Z",
+    "wiki:Bruce_Grobbelaar": "2026-11-28T11:51:34.192Z",
+    "wiki:David_Burrows_(footballer)": "2026-11-28T11:51:34.284Z",
+    "wiki:Torben_Piechnik": "2026-11-28T11:51:34.409Z",
+    "wiki:Julian_Dicks": "2026-11-28T11:51:34.771Z",
+    "wiki:István_Kozma_(footballer)": "2026-11-28T11:51:34.747Z",
+    "wiki:Mark_Gayle": "2026-11-28T11:51:35.191Z",
+    "wiki:Mike_Hooper_(footballer)": "2026-11-28T11:51:35.576Z",
+    "wiki:Neil_Ruddock": "2026-11-28T11:51:35.240Z",
+    "wiki:Ronny_Rosenthal": "2026-11-28T11:51:35.646Z",
+    "wiki:Tony_Cousins": "2026-11-28T11:51:35.605Z",
+    "wiki:Mike_Marsh_(footballer)": "2026-11-28T11:51:36.780Z",
+    "wiki:Stig_Inge_Bjørnebye": "2026-11-28T11:51:36.017Z",
+    "wiki:Barry_Venison": "2026-11-28T11:51:36.062Z",
+    "wiki:Dean_Saunders": "2026-11-28T11:51:36.636Z",
+    "wiki:Paul_Stewart_(footballer,_born_1964)": "2026-11-28T11:51:36.487Z",
+    "wiki:Barry_Jones_(footballer)": "2026-11-28T11:51:36.832Z",
+    "wiki:Ray_Houghton": "2026-11-28T11:51:37.082Z",
+    "wiki:John_Aldridge": "2026-11-28T11:51:37.307Z",
+    "wiki:David_James_(footballer,_born_1970)": "2026-11-28T11:51:37.537Z",
+    "wiki:Steve_Harkness": "2026-11-28T11:51:38.045Z",
+    "wiki:Glenn_Hysén": "2026-11-28T11:51:37.662Z",
+    "wiki:Ronnie_Rosenthal": "2026-11-28T11:51:37.970Z",
+    "wiki:Jim_Beglin": "2026-11-28T11:51:38.063Z",
+    "wiki:Nick_Tanner_(footballer)": "2026-11-28T11:51:38.305Z",
+    "wiki:John_Durnin": "2026-11-28T11:51:39.007Z",
+    "wiki:Nigel_Spackman": "2026-11-28T11:51:38.543Z",
+    "wiki:Craig_Johnston": "2026-11-28T11:51:39.379Z",
+    "wiki:Mark_Lawrenson": "2026-11-28T11:51:39.145Z",
+    "wiki:John_Wark": "2026-11-28T11:51:40.966Z",
+    "wiki:Paul_Walsh": "2026-11-28T11:51:39.655Z",
     "wiki:Mark_Seagraves": "2026-10-18T15:33:14.273Z",
     "wiki:Brian_Mooney": "2026-10-18T15:33:14.580Z",
     "wiki:Alan_Irvine_(footballer_born_1962)": "2026-10-18T15:33:15.337Z",
